@@ -1,4 +1,3 @@
-hbjhbh
 # classes
 class ClothingItem:
     def __init__(self, name, price, size, colour, brand):
